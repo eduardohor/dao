@@ -33,7 +33,6 @@ class Sql extends PDO{
 		$stmt->execute();
 
 		return $stmt;
-
  
 	}
 
